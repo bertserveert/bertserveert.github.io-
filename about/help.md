@@ -1,7 +1,13 @@
 # Help Page
 
+## Github DOCs for Pages
+
+[Quickstart](https://docs.github.com/en/pages/quickstart)
+
 ---
-this is a copy of the 'get started' page for github pages.
+
+This is a copy of the 'get started' page for github pages.
+
 ---
 
 
